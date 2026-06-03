@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langchain-community
+langchainhub
+faiss-cpu
+tavily-python
+pypdf
+python-dotenv
+google-generativeai
